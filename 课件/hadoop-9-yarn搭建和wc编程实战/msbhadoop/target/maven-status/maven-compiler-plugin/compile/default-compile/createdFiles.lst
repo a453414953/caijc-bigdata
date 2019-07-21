@@ -1,0 +1,4 @@
+com\msb\hadoop\mapreduce\wc\MyWordCount.class
+com\msb\hadoop\hdfs\TestHDFS.class
+com\msb\hadoop\mapreduce\wc\MyReducer.class
+com\msb\hadoop\mapreduce\wc\MyMapper.class
